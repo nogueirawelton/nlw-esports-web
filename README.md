@@ -1,5 +1,5 @@
 <h1 align="center">
-  NpsCalc
+  Nlw Esports - Web
 </h1>
 
 <p align="center">
@@ -7,25 +7,14 @@
 
 ## 💻 Projeto
 
-Aplicação para cálculo de nps a partir de pesquisas feitas por email.
+Aplicação FrontEnd da NLWEsports
 
 ## ✨ Tecnologias
 
-- [ ] Node
+- [ ] React
 - [ ] Typescript
-- [ ] Express
-- [ ] Prisma
-- [ ] Yup
-- [ ] Jest
-- [ ] Supertest
-- [ ] NodeMailer
-
-## :hammer_and_wrench: Features
-
-- [ ] Criação de Usuários
-- [ ] Criação de Pesquisas
-- [ ] Envio de Email
-- [ ] Cálculo Nps
+- [ ] Tailwind
+- [ ] RadixUI
 
 ## Executando o projeto
 
